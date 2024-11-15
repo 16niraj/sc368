@@ -42,3 +42,6 @@ function onClickSubmitButton() {
     list.innerHTML+= "<li>" + todo + "</li>";
  });
 }
+
+// settings pages master save click on link then on website
+// git init git add . git commit 
