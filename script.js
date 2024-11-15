@@ -34,7 +34,7 @@ function onClickSubmitButton() {
   Todos.push(inputText.value)
 //   console.log(Todos)
  inputText.value="";
-//  console.log(Todos)
+ console.log(Todos)
  Todos.forEach((todo)=>{
     list.innerHTML+= "<li>" + todo + "</li>";
  });
