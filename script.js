@@ -19,9 +19,6 @@ const countdown =document.getElementsByClassName("countdown")[0];
 let initialcount=10;
 const timer = setInterval(Countdown,1000 )
 
-// function Card(Todo){
-//     return 
-// }
 function Countdown(){
     initialcount-=1;
     countdown.innerText= initialcount;
