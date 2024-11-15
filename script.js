@@ -41,4 +41,4 @@ function onClickSubmitButton() {
 }
 
 // settings pages master save click on link then on website
-// git init git add . git commit 
+// git init git add . git commit git push
